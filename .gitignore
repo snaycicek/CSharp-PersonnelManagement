@@ -1,0 +1,10 @@
+﻿# Visual Studio ve build klasörleri
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.cache
+*.log
+*.vsidx
